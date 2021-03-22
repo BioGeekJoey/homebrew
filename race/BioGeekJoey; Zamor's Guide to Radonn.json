@@ -129,7 +129,7 @@
 				{
 					"name": "Um’Ashkari Instincts",
 					"entries": [
-						"You gain proficiency in two of the following skills of your choice: {@skill Deception}, {@skill Insight}, {@skill Intimidation}, and {@skill Persuasion}."
+						"You gain proficiency in two of the following skills of your choice: {@skill deception}, {@skill insight}, {@skill intimidation}, and {@skill persuasion}."
 					]
 				},
 				{
